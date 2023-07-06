@@ -24,3 +24,4 @@ Here is an example of how I [forked this repo](https://github.com/fleetingnotes/
 ![[fn-website-demo.gif]]
 
 
+### Updated for actions to upload website!
